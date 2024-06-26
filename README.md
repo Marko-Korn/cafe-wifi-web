@@ -9,7 +9,7 @@ A simple and minimalistic look for the main page of the website.
 
 
 # Database table
-Also a simple table which gets data from out database of cafes and siplays them in a HTML table.
+Also a simple table which gets data from out database of cafes and displays them in a HTML table.
 
 ![database](https://github.com/Marko-Korn/cafe-wifi-web/assets/9790303/d6dcf997-875c-4c54-a3cb-559dc04a8a6d)
 
