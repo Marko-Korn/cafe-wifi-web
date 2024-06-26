@@ -1,5 +1,5 @@
 # Cafe-Wifi-Web
-A website of coffee places made in Python using Flask, Bootstrap and SQLAlchemy. We also created an API that serves data on coffee.
+A website of coffee places made in Python using Flask, Bootstrap and SQLAlchemy. Also created an API that serves and edits data.
 The main purpose of this project was to get more comfortable with using SQLAlchemy and creating an API.
 
 # Main page
