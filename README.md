@@ -22,6 +22,8 @@ Documentation link: https://documenter.getpostman.com/view/35992979/2sA3drKEzU
 
 
 # Database
-This is the database. This database is accessed in the project using SQLAlchemy.
+This is the database. This database is accessed in the project using SQLAlchemy. Here is the look into the database using DB Browser:
 
-![database](https://github.com/Marko-Korn/cafe-wifi-web/assets/9790303/08720aa1-1a27-4eda-9b15-8ca61f21f67a)
+
+![sql](https://github.com/Marko-Korn/cafe-wifi-web/assets/9790303/bd0e84de-4d55-4e74-85db-d750ba81be7a)
+
